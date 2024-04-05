@@ -1,5 +1,4 @@
 <h3 align="left">Hi 👋, I'm Sachindu</h3>
-<h5 align="left">IT Student | Tech Enthusiast</h5>
 
 <h4 align="left">Connect with me:</h4>
 <p align="left">
