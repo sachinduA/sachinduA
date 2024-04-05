@@ -1,8 +1,8 @@
-<p align="center">
+<!--<p align="center">
   <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="180"/>
-</p>
+</p> -->
 
-<h2 align="center">Hi 👋, I'm Sachindu <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="30"> </h2>
+<h2 align="left">Hi 👋, I'm Sachindu <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="30"> </h2>
 
 ### 🛠 &nbsp;Tech Stack
 
