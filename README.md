@@ -17,7 +17,7 @@
 
 ![Sachindu's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sachindua&theme=tokyonight&layout=compact)
 
-### :link: &nbsp;Connect with me
+<!--### :link: &nbsp;Connect with me-->
 
 <!--<p align="center">
 <a href="https://linkedin.com/in/KevinPatel04"><img src="https://img.shields.io/badge/-Kevin%20Patel-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
