@@ -2,7 +2,7 @@
   <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="200"/>
 </p>
 <hr>
-<h3 align="center">Hi 👋, I'm Sachindu</h3>
+<h2 align="center">Hi 👋, I'm Sachindu</h2>
 
 
 [![](https://activity-graph.herokuapp.com/graph?username=sachinduA&theme=tokyonight)](https://git.io/praveenscience)
