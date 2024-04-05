@@ -2,7 +2,7 @@
   <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="180"/>
 </p>
 <hr>
-<h3 align="center">Hi 👋, I'm Sachindu <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="30"> </h3>
+<h2 align="center">Hi 👋, I'm Sachindu <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="30"> </h2>
 
 ### 🛠 &nbsp;Tech Stack
 
@@ -15,7 +15,7 @@
 
 [![](https://activity-graph.herokuapp.com/graph?username=sachinduA&theme=tokyonight)](https://git.io/praveenscience)
 
-| ![Sachindu's github stats](https://github-readme-stats.vercel.app/api?username=sachinduA&show_icons=true&theme=tokyonight) | ![Sachindu GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sachinduA&theme=tokyonight) |
-| --- | --- |
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sachinduA&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=sachinduA&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
+![Sachindu's github stats](https://github-readme-stats.vercel.app/api?username=sachindua&show_icons=true&theme=tokyonight) ![Sachindu GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sachindua&theme=tokyonight)
+![Sachindu's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sachindua&theme=tokyonight&layout=compact)
+
 
