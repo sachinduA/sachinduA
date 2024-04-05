@@ -15,7 +15,6 @@
 
 [![](https://activity-graph.herokuapp.com/graph?username=sachinduA&theme=tokyonight)](https://git.io/praveenscience)
 
-![Sachindu's github stats](https://github-readme-stats.vercel.app/api?username=sachindua&show_icons=true&theme=tokyonight) ![Sachindu GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sachindua&theme=tokyonight)
 ![Sachindu's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sachindua&theme=tokyonight&layout=compact)
 
 
