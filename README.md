@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="200"/>
+  <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="180"/>
 </p>
 <hr>
 <h3 align="center">Hi 👋, I'm Sachindu <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="30"> </h3>
