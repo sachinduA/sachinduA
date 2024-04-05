@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sachindu Ayodye</h1>
+<h1 align="center">Hi 👋, I'm Sachindu</h1>
 <h3 align="center">IT Student | Tech Enthusiast</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=sachindua&label=Profile%20views&color=0e75b6&style=flat" alt="sachindua" /> </p>
