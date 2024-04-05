@@ -1,7 +1,7 @@
 <p align="center">
-  <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="180"/>
+  <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="190"/>
 </p>
-<hr>
+
 <h2 align="center">Hi 👋, I'm Sachindu <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="30"> </h2>
 
 ### 🛠 &nbsp;Tech Stack
