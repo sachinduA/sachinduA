@@ -1,9 +1,9 @@
-<p align="center">
+<!--<p align="center">
   <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="180"/>
-</p>
+</p>-->
 
-<h2 align="center">Hi there👋, I'm Sachindu <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="30"> </h2>
-<div align="center" border-radius=10px>
+<h2 align="left">Hi there👋, I'm Sachindu <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="30"> </h2>
+<div align="left">
   
  <!--[![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=Gmail&logoColor=white)](mailto:sachinduayodye@gmail.com)&nbsp;-->
   [![LinkedIn](https://img.shields.io/static/v1.svg?label=LinkedIn&message=@Sachindu-Peramuna&logo=linkedin&style=flat&color=blue)](https://www.linkedin.com/in/sachindu-peramuna/)
